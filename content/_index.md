@@ -36,7 +36,7 @@ sections:
   #       gradient_end: '#1976d2'
   #       gradient_start: '#004ba0'
   #       text_color_light: true
-   - block: resume-biography-3
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -371,12 +371,12 @@ sections:
       columns: '2'
 ---
 
+
+
+
+
+
 <!-- 
-
-
-
-
-
 ---
 # Leave the homepage title empty to use the site title
 title: ""
