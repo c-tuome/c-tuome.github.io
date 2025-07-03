@@ -103,9 +103,26 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - **Solar Panel Installation**: Installed photovoltaic (PV) systems on residential, commercial, and/or industrial rooftops and ground mounts, following design specifications and safety protocols.
+
+      - **System Configuration**: Assembled, wired, and connected panels, inverters, and other components, ensuring system efficiency and proper orientation/tilt.
+
+      - **Electrical Work**: Performed basic to advanced electrical tasks, including conduit bending, grounding, wiring, and connecting systems to the main power supply or grid.
+
+      - **Site Assessment**: Conducted on-site evaluations to determine installation feasibility, including roof measurements, shading analysis, and structural inspections.
+
+      - **Troubleshooting & Maintenance**: Diagnosed and repaired system issues; performed routine maintenance checks to ensure long-term functionality and safety.
+
+      - **Safety Compliance**: Adhered to OSHA, NEC, and local safety codes and regulations throughout all phases of installation and system testing.
+
+      - **Documentation & Reporting**: Completed installation reports, inspection checklists, and client documentation for permits and rebates.
+
+      - **Client Communication**: Explained system functionality and maintenance requirements to clients; provided support for system usage and monitoring.
+
+      - **Team Collaboration**: Worked closely with project managers, electricians, and other crew members to complete jobs efficiently and on schedule.
+
+      - **Tool & Equipment Management**: Operated hand and power tools, ladders, and safety harnesses; maintained tools and ensured proper storage.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
