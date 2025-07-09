@@ -92,9 +92,12 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      * Assisted senior technicians with the configuration of integrated security systems, including cameras, access control panels, and servers.
+      * Supported project deployments by preparing devices, reviewing documentation, and ensuring adherence to company standards.
+      * Learned and applied programming standards for multiple access control platforms under the guidance of senior specialists.
+      * Helped improve company workflows by testing and providing feedback on custom scripts designed to enhance project efficiency.
+      * Provided support for break-fix work and system upgrades, helping to ensure customer delivery schedules were met.
+      * Aided in quality control testing to ensure system reliability and customer satisfaction.
   - position: Solar Installation Technician
     company_name: All Energy Solar
     company_url: 'https://www.allenergysolar.com/'
