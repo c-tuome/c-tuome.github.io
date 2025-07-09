@@ -24,7 +24,8 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: SecurityBackground.jpg    # stacked-peaks.svg
+          # more image options here: https://www.freepik.com/free-photos-vectors/circuit-svg/2#uuid=912e2df0-8931-42ef-a396-1dec69c944e8
           filters:
             brightness: 1.0
           size: cover
