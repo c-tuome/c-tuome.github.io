@@ -39,8 +39,8 @@ profiles:
   #   url: https://www.instagram.com/
   # - icon: brands/github
   #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/carter-tuomela-33809b293/ # https://www.linkedin.com/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
