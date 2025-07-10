@@ -33,12 +33,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '👋 About Me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Systems Specialist Associate at ArchKey Solutions where I do troubleshooting, programming, and commissioning for integrated security systems. I work primarily in the support department where we do remote support, preventative maintenance, and problem-resolution consulting with systems issues.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I have professional certifications and experience with Genetec Security Center and Lenel OnGuard.
         
         Please reach out to collaborate 😃
     design:
