@@ -36,7 +36,7 @@ sections:
       title: '👋 About Me'
       subtitle: ''
       text: |-
-        I am a Systems Specialist Associate at ArchKey Solutions where I do troubleshooting, programming, and commissioning for integrated security systems. I work primarily in the support department where we do remote support, preventative maintenance, and problem-resolution consulting with systems issues.
+        I am a Systems Specialist Associate at ArchKey Solutions where I do troubleshooting, programming, and commissioning for integrated security systems. I work primarily in the support department where we do remote support, preventative maintenance, and problem-resolution consulting for systems issues.
 
         I have professional certifications and experience with Genetec Security Center and Lenel OnGuard.
         
